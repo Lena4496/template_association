@@ -1,12 +1,14 @@
 # template_association
 Projet asbl 
 
-Site de départ : http://nemesischarleroi.be/ 
+Site de dÃ©part : http://nemesischarleroi.be/ 
 
 Site pour information sur l'Asbl : https://vivre-ensemble.be/Nemesis-Charleroi
 
 Modification du texte
-Modification de l'image bannière
+
+Modification de l'image banniÃ¨re
+
 Modification du site
 
 
